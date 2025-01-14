@@ -5,7 +5,6 @@ from PIL import Image, ImageTk
 import ttkbootstrap as tkb
 import xml.etree.ElementTree as ET
 
-# import
 # 🌦️ get_weather function to fetch and parse XML data from API
 def get_weather(city):
     API_key = "05f4ee67848cc2f2685db6e4c1cf5f3e"
